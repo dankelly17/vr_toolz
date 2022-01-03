@@ -1,1 +1,2 @@
-Contains Eric Zimmerman tools LEcmd.exe and JLEcmd.exe to pull from VR for local parsing and timelining on an endpoint.
+* LECmd.exe and JLECmd.exe are Eric Zimmerman tools downloaded from https://ericzimmerman.github.io/#!index.md
+* webshell_ are related to files from Tim Stiller's webshell analyzer: https://github.com/tstillz/webshell-scan
